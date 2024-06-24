@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+header{
+    height: 8rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1c1c1c;
+}
+
+body{
+    background-color: #1c1c1c;
+    width: 100%;
+}
+
+img{
+    height: 40px;
+    width: 40px;
+}
+.nav_logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white ;
+    padding: 20px;
+    font-size: x-large;
+}
+
+.navsearch{
+    display: flex;
+    height: 3rem;
+    margin-top: 2rem;
+    border-radius: 50%;
+}
+input{
+    color: white;
+    width: 50rem;
+    border-radius: 5rem;
+    text-align-last: center;
+    font-size: larger;
+    background-color: #38343462;
+}
+.subs{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2.9rem;
+    margin-left: 3rem;
+    color: white;
+}
+.fa-bars{
+    color: white;
+    margin-left: 3rem;
+    margin-top: 2.9rem;
+}
+.main{
+    background-color: black;
+    width: 100%;
+    
+}
+.bar{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: white ;
+}
+.bar{
+    width: 100%;
+    padding: 2.5rem;
+    display: flex;
+    justify-content: space-around;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+
+.box1{
+    
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box1:hover{
+    cursor: pointer;
+}
+.box2:hover{
+    cursor: pointer;
+}
+.box3:hover{
+    cursor: pointer;
+}
+.box4:hover{
+    cursor: pointer;
+}
+.box5:hover{
+    cursor: pointer;
+}
+.box6:hover{
+    cursor: pointer;
+}
+.box7:hover{
+    cursor: pointer;
+}.box8:hover{
+    cursor: pointer;
+}.box9:hover{
+    cursor: pointer;
+}.box10:hover{
+    cursor: pointer;
+}
+.box2{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box3{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box4{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box5{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.mainbody{
+    display: flex;
+    justify-content: space-evenly;
+    height: 20rem;
+    width: 100%;
+    
+}
+.mainbody2{
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: space-evenly;
+    height: 20rem;
+    width: 100%;
+} 
+.box6{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box7{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box8{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box9{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.box10{
+    height: 12rem;
+    width: 15rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+footer{
+    width: 100%;
+    background-color: #1c1c1c;
+    display: flex;
+    justify-content: center;
+}
+.clas{
+    font-size: larger;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+.mainbody3{
+    display: flex;
+    justify-content: space-evenly;
+    height: 20rem;
+    width: 100%;
+}
+.mainbody4{
+    display: flex;
+    justify-content: space-evenly;
+    height: 20rem;
+    width: 100%;
+}
+.mainbody5{
+    display: flex;
+    justify-content: space-evenly;
+    height: 20rem;
+    width: 100%;
+}
